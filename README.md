@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Moonee🌝&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Moonee🌝&fontSize=40&animation=fadeIn)
 
 ### ✨ Hello World, This is Moonhee 
 [![Moonee's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonheekim0118)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,7 +16,7 @@
 
 
 ### ✨ 개발자가 되기까지의 여정
-많이 실패하기도 했고 방황하기도 했던 저의 짧지만 소중한 경험들입니다 
+많이 실패하기도 했고 방황하기도 했던 저의 짧지만 소중한 경험들입니다. 아직은 많이 부족해도 앞으로 더 멋지고 의미있게 채워나가도록 노력하겠습니다👯‍♀️
 - **2018년 2월** 친구의 추천으로 칸 아카데미에서 자바스크립트를 배우다  ***사실 자바스크립트==자바인줄 알고 배웠..***
 - **2018년 5월** 처음 C 언어를 배우다 🤓 ***포인터 너 이놈 내가 정복하고야 만다***
 - **2018년 7월** [MIT 6001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 강의를 수강하며 프로그래밍의 기초를 배우다 ***이렇게 재미있는 공부는 난생 처음이야..***
