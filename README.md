@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Mooneeᕕ(ᐛ)ᕗ&fontSize=40&animation=fadeIn)
 
-<br/>
-
 
 - [개발 공부 블로그](https://mooneedev.netlify.app/)
 - [포트폴리오](https://www.notion.so/mooneedev/827386ac975b463fba998e5649805a0c)
