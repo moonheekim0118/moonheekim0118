@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Mooneeᕕ(ᐛ)ᕗ&fontSize=40&animation=fadeIn)
 
-### ✨ Hello World, This is Moonhee 
-[![Moonee's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonheekim0118&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youmustbeharrypotter)](https://solved.ac/youmustbeharrypotter/)
-
 <br/>
 
 
