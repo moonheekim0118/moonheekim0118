@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rA1T0sDDRjlNyxQMgbyA718Gy8QpXwn3qJQCvtMWgBjOG31tjCVNwh9DonumH-0Qzg72XJDZPh5YRzoB">](https://music.youtube.com/watch?v=qly9UI4wmag)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CEFIvocPbLa479SM1xgzhKUebp_m4e4mInjQtDAASjKB3T8vJF8BvNJNnzaQ9nNaxD316162j3Xs-z3E">](https://music.youtube.com/watch?v=HaChubfY_hg)
 
-Kenshi Yonezu - Uma to Shika
+Mac Miller - Circles
 
-**Albums**: Uma to Shika
+**Albums**: Circles
 
-Last updated at 07/14/2021 10:36
+Last updated at 07/14/2021 10:41
