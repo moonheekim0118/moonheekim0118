@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/BDr7hFHmVb63MqTriPKcsB0b8_qlsNQRX5ZgNcsyZugOKttn9-1b3zyLfww19V1zdjSfEfuMbvzZbU4">](https://music.youtube.com/watch?v=Po2Ujyn8SXE)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aKLef_xHL6hq5KvofHV_3frVnHLEa7-e8iUZpDrEGM1XgNfpL6IIfO1zuSZsRuAEj3LwxStum-7NFX6N">](https://music.youtube.com/watch?v=HXzUNGoz7Sg)
 
-aimyon - Harunohi
+GLAY - HOWEVER
 
-**Albums**: Harunohi
+**Albums**: THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜
 
-Last updated at 07/14/2021 14:48
+Last updated at 07/14/2021 14:54
