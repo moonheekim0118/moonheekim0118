@@ -6,12 +6,12 @@
 <br/>
 
 
-## Now Playing on YTMusic
+## Now Playing on YouTube
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXUQKejdYcQXjgOZVk2j3A12MRZUdrUwAwddJoj2C0TIEcM6lNACX2VZiLj5kki5Y-C1fx7B4-MtBtUY">](https://music.youtube.com/watch?v=sgcgzYObr6Y)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AKedOLRnhhcNwwq60jNviaoiJpKtBG1A_btBBhjLRttO8w=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCQVhrypJhw1HxuRV4gX6hoQ)
 
-Yorushika - Eat The Wind
+あいみょん - 青春と青春と青春【OFFICIAL MUSIC VIDEO】
 
-**Albums**: Eat The Wind
+**Albums**: Not supported
 
-Last updated at 07/14/2021 15:17
+Last updated at 07/14/2021 18:35
