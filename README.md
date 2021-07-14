@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/4S6HD7582rx6y1R_U5vtt7is4Ig9uXphciI6aj3vgEwHDZxaHQ5cF1Fc0H2QUqQwZDn9QJa1mrc_8ltYrg">](https://music.youtube.com/watch?v=D2HqSMD6NOc)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/fHYeEC9CknX30d2J-lNj29xys0hsxigF1SDk-g2EOlOp98fUNK5R83OOMnXLb4eORnVxQdlShjCn-MY">](https://music.youtube.com/watch?v=15RuCIbXE8A)
 
-Lorde - Solar Power
+Olivia Rodrigo - jealousy, jealousy
 
-**Albums**: Solar Power
+**Albums**: SOUR
 
-Last updated at 07/14/2021 19:43
+Last updated at 07/14/2021 19:45
