@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9re2DFcUThc-qyBjRFmazfWrKlmQgQwz-MY0Nx_ly3vQ0aQyoAUcVTkAQKpN4WEECg27mO6f-NrR5lm0Cw">](https://music.youtube.com/watch?v=YYKD-xf0JOk)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/povygoHA13Sue9GOrQEArW9xqlkcWrhb-k68mb8b-ojAgG1ce9tvavyU76L4VKgGjMZAKOlFZoVNKr4W">](https://music.youtube.com/watch?v=IDY2VYkmKIY)
 
-Lorde - Yellow Flicker Beat
+Masaki Suda - Clover
 
-**Albums**: Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)
+**Albums**: LOVE
 
-Last updated at 07/14/2021 19:35
+Last updated at 07/14/2021 19:36
