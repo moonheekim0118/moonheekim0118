@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pp-hXL5Lu9Z3-yUYO0wOv37BVNGYP1IU5yGnW6zK9EFG7Ksr6pezIQMk2LqovtDTLkFXhZFpDuiPmhU">](https://music.youtube.com/watch?v=wFLULbm0LPw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9re2DFcUThc-qyBjRFmazfWrKlmQgQwz-MY0Nx_ly3vQ0aQyoAUcVTkAQKpN4WEECg27mO6f-NrR5lm0Cw">](https://music.youtube.com/watch?v=YYKD-xf0JOk)
 
-Sia - Fair Game
+Lorde - Yellow Flicker Beat
 
-**Albums**: 1000 Forms Of Fear
+**Albums**: Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)
 
-Last updated at 07/14/2021 19:31
+Last updated at 07/14/2021 19:35
