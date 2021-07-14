@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CEFIvocPbLa479SM1xgzhKUebp_m4e4mInjQtDAASjKB3T8vJF8BvNJNnzaQ9nNaxD316162j3Xs-z3E">](https://music.youtube.com/watch?v=HaChubfY_hg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/CEFIvocPbLa479SM1xgzhKUebp_m4e4mInjQtDAASjKB3T8vJF8BvNJNnzaQ9nNaxD316162j3Xs-z3E">](https://music.youtube.com/watch?v=lyuvl1EY11Q)
 
-Mac Miller - Circles
+Mac Miller - Complicated
 
 **Albums**: Circles
 
-Last updated at 07/14/2021 10:41
+Last updated at 07/14/2021 10:44
