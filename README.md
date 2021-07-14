@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rA1T0sDDRjlNyxQMgbyA718Gy8QpXwn3qJQCvtMWgBjOG31tjCVNwh9DonumH-0Qzg72XJDZPh5YRzoB">](https://music.youtube.com/watch?v=YOWRETv2kaw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rA1T0sDDRjlNyxQMgbyA718Gy8QpXwn3qJQCvtMWgBjOG31tjCVNwh9DonumH-0Qzg72XJDZPh5YRzoB">](https://music.youtube.com/watch?v=qly9UI4wmag)
 
-Kenshi Yonezu - Deshomasho
+Kenshi Yonezu - Uma to Shika
 
 **Albums**: Uma to Shika
 
-Last updated at 07/14/2021 10:33
+Last updated at 07/14/2021 10:36
