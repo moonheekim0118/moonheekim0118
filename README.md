@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/rikGDcMF4nRpHtW_g7ERkfoWALaC8AfNIReeSQKN4wapYASEAL1U8j6e8lIsJW_ZnSmsiaP8W9KoAATu">](https://music.youtube.com/watch?v=i9V4hQvXuEI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ftHvCZuSbCdPhB5DJO2NUkyi_M-RGl_S7FZ1Mg7KBKzUF3EsZHtQiVLMVcWYLKnRILDMekKKYhM6WKjT">](https://music.youtube.com/watch?v=a3OV4eSuNdg)
 
-indigo la End - natsuyo no magic
+Kenshi Yonezu - Shunrai
 
-**Albums**: Aiiro Music
+**Albums**: Bootleg
 
-Last updated at 07/14/2021 14:43
+Last updated at 07/14/2021 14:44
