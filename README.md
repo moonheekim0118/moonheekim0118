@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ys6KyjCj55xJ4SKTbTlJzCNJ8IL60savwHsaiyLY03aV4WAivIlfNUWcVuHgp8Lbp0AVh665fIQCOxA">](https://music.youtube.com/watch?v=FckSkhUJx2Y)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TWBi2M7D8gIwoo3NmhGfoVKI-PuzDunLVYpmLCbeP8Uw2YWpnjttlxmVvpVaO8uSjmLPjHgy6iGXxlPF">](https://music.youtube.com/watch?v=Fx3b85eDQvw)
 
-Kenshi Yonezu - Blue Jasmine
+Frank Ocean - Nights
 
-**Albums**: Bremen
+**Albums**: Blonde
 
-Last updated at 07/14/2021 10:02
+Last updated at 07/14/2021 10:04
