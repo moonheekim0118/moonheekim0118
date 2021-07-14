@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pp-hXL5Lu9Z3-yUYO0wOv37BVNGYP1IU5yGnW6zK9EFG7Ksr6pezIQMk2LqovtDTLkFXhZFpDuiPmhU">](https://music.youtube.com/watch?v=fwwguRYfRQA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pp-hXL5Lu9Z3-yUYO0wOv37BVNGYP1IU5yGnW6zK9EFG7Ksr6pezIQMk2LqovtDTLkFXhZFpDuiPmhU">](https://music.youtube.com/watch?v=wFLULbm0LPw)
 
-Sia - Burn the Pages
+Sia - Fair Game
 
 **Albums**: 1000 Forms Of Fear
 
-Last updated at 07/14/2021 19:27
+Last updated at 07/14/2021 19:31
