@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/aKLef_xHL6hq5KvofHV_3frVnHLEa7-e8iUZpDrEGM1XgNfpL6IIfO1zuSZsRuAEj3LwxStum-7NFX6N">](https://music.youtube.com/watch?v=HXzUNGoz7Sg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/r5hsIeIFhTvIfAmI7IdBqsUCj_iDI57g1m2O8Sh8LniQKg-iMbs1b50liCGF6OGEFvk6D9krdRruuuuucA">](https://music.youtube.com/watch?v=Rq65VlRhvMs)
 
-GLAY - HOWEVER
+back number - Happy End
 
-**Albums**: THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜
+**Albums**: Happy End
 
-Last updated at 07/14/2021 14:54
+Last updated at 07/14/2021 14:57
