@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=TIwu1o2ssSI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZeE1g4xevNUYH6zCrKkFfxIWUNgMPeM98AGUdMjKFReG0qKobV93d1zxTUdfGDsDFNhN1JaDQa9Wczc">](https://music.youtube.com/watch?v=qNxyTO9SqlM)
 
-Kenshi Yonezu - Himawari
+Vaundy - 東京フラッシュ
 
-**Albums**: STRAY SHEEP
+**Albums**: strobo
 
-Last updated at 07/14/2021 14:59
+Last updated at 07/14/2021 15:02
