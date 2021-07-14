@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZeE1g4xevNUYH6zCrKkFfxIWUNgMPeM98AGUdMjKFReG0qKobV93d1zxTUdfGDsDFNhN1JaDQa9Wczc">](https://music.youtube.com/watch?v=qNxyTO9SqlM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Ys6KyjCj55xJ4SKTbTlJzCNJ8IL60savwHsaiyLY03aV4WAivIlfNUWcVuHgp8Lbp0AVh665fIQCOxA">](https://music.youtube.com/watch?v=FckSkhUJx2Y)
 
-Vaundy - 東京フラッシュ
+Kenshi Yonezu - Blue Jasmine
 
-**Albums**: strobo
+**Albums**: Bremen
 
-Last updated at 07/14/2021 10:00
+Last updated at 07/14/2021 10:02
