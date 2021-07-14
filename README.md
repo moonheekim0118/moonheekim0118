@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/ZeE1g4xevNUYH6zCrKkFfxIWUNgMPeM98AGUdMjKFReG0qKobV93d1zxTUdfGDsDFNhN1JaDQa9Wczc">](https://music.youtube.com/watch?v=qNxyTO9SqlM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Fz_43N4kATdDzOuCq6pzfLw9Unj5s_qGN2tq557XYzbaFbdjjzOyOvsByM6qgQGIL-yZqx5tVY0MczeGnQ">](https://music.youtube.com/watch?v=OxiyIW2y1bg)
 
-Vaundy - 東京フラッシュ
+aimyon - Her Blue Sky
 
-**Albums**: strobo
+**Albums**: Her Blue Sky
 
-Last updated at 07/14/2021 15:02
+Last updated at 07/14/2021 15:06
