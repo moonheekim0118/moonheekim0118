@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=vTOSICeCu0o)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=s5mpKn_bGN0)
 
-Kenshi Yonezu - Yasashii Hito
+Kenshi Yonezu - Stray Sheep
 
 **Albums**: STRAY SHEEP
 
-Last updated at 07/14/2021 10:17
+Last updated at 07/14/2021 10:21
