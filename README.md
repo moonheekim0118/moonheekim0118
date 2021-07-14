@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QkZazIlKTMYbBD9jNjj57ugBKHopsPHWVlVe_4_eL98Gk1MXQPEtIuQw4z-6T7WBq5GzvkL7Idxgq5Y">](https://music.youtube.com/watch?v=VojKOZML1xI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/4S6HD7582rx6y1R_U5vtt7is4Ig9uXphciI6aj3vgEwHDZxaHQ5cF1Fc0H2QUqQwZDn9QJa1mrc_8ltYrg">](https://music.youtube.com/watch?v=D2HqSMD6NOc)
 
-Alessia Cara - October
+Lorde - Solar Power
 
-**Albums**: This Summer
+**Albums**: Solar Power
 
-Last updated at 07/14/2021 19:40
+Last updated at 07/14/2021 19:43
