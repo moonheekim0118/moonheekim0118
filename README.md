@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=s5mpKn_bGN0)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/NoElVu4p0Ib8UUFKK-zKv43iI6LDx7rEbJYuuUAwhFpEKqcY3Pbj-cFpzyaOGfQLYhlwLJVkr2Bq2XCJ">](https://music.youtube.com/watch?v=YF_2v90gvZA)
 
-Kenshi Yonezu - Stray Sheep
+Kenshi Yonezu - Peace Sign
 
-**Albums**: STRAY SHEEP
+**Albums**: Peace Sign
 
-Last updated at 07/14/2021 10:21
+Last updated at 07/14/2021 10:24
