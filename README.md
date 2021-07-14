@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/CEFIvocPbLa479SM1xgzhKUebp_m4e4mInjQtDAASjKB3T8vJF8BvNJNnzaQ9nNaxD316162j3Xs-z3E">](https://music.youtube.com/watch?v=pE61lg033eM)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/bgod99CD0VjmJIuS0QiZVyp17JOhGHE7jdKi66LsNmOTJmncbKwjK9SPyR7kQ__hX_sdPd38e4hFgjpH">](https://music.youtube.com/watch?v=mJ1N7-HyH1A)
 
-Mac Miller - Everybody
+YOASOBI - 夜に駆ける
 
-**Albums**: Circles
+**Albums**: THE BOOK
 
-Last updated at 07/14/2021 10:57
+Last updated at 07/14/2021 14:39
