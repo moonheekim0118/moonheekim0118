@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=TIwu1o2ssSI)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/KfgLFrXkwju9RqhLe9CgUiaeBK8XLs5SP6rdKrZMDveh0yw3AJBxow7tNQqyjfCaOAzZVd1B6v8T7JM">](https://music.youtube.com/watch?v=DcKa0n2LCLk)
 
-Kenshi Yonezu - Himawari
+Kenshi Yonezu - Flamingo
 
-**Albums**: STRAY SHEEP
+**Albums**: Flamingo / TEENAGE RIOT
 
-Last updated at 07/14/2021 10:10
+Last updated at 07/14/2021 10:14
