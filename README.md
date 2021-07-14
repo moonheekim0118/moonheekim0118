@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TWBi2M7D8gIwoo3NmhGfoVKI-PuzDunLVYpmLCbeP8Uw2YWpnjttlxmVvpVaO8uSjmLPjHgy6iGXxlPF">](https://music.youtube.com/watch?v=Fx3b85eDQvw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/TWBi2M7D8gIwoo3NmhGfoVKI-PuzDunLVYpmLCbeP8Uw2YWpnjttlxmVvpVaO8uSjmLPjHgy6iGXxlPF">](https://music.youtube.com/watch?v=x6QJPJO2w40)
 
-Frank Ocean - Nights
+Frank Ocean - Ivy
 
 **Albums**: Blonde
 
-Last updated at 07/14/2021 10:04
+Last updated at 07/14/2021 10:08
