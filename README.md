@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Fz_43N4kATdDzOuCq6pzfLw9Unj5s_qGN2tq557XYzbaFbdjjzOyOvsByM6qgQGIL-yZqx5tVY0MczeGnQ">](https://music.youtube.com/watch?v=OxiyIW2y1bg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/nOt7bbpmEgdxmQIB0tLYV_xeLD0-EkYqltaKOEEF8sqMF-57OwSqXPXdWg5l2NKcF9jswOO31luC1U140w">](https://music.youtube.com/watch?v=0EuC4jUbITA)
 
-aimyon - Her Blue Sky
+サカナクション - 新宝島
 
-**Albums**: Her Blue Sky
+**Albums**: 834.194
 
-Last updated at 07/14/2021 15:06
+Last updated at 07/14/2021 15:11
