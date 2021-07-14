@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/x35pQltTJ4MZULsMAfNdNKR5jIytavtdWSw_Jdregx3UXx9vzLcO2miKFIMC80iUcCauihe0tV_WFrLbyw">](https://music.youtube.com/watch?v=XEHvZ5GrfM8)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rA1T0sDDRjlNyxQMgbyA718Gy8QpXwn3qJQCvtMWgBjOG31tjCVNwh9DonumH-0Qzg72XJDZPh5YRzoB">](https://music.youtube.com/watch?v=YOWRETv2kaw)
 
-Kenshi Yonezu - Eine Kleine
+Kenshi Yonezu - Deshomasho
 
-**Albums**: Yankee
+**Albums**: Uma to Shika
 
-Last updated at 07/14/2021 10:28
+Last updated at 07/14/2021 10:33
