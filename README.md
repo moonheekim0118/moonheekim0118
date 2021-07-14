@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9wIWuVRGm62qGswtdsAQgagq4Fsz9t_bNzyv9YviE1Bpf1CKEYkR3i5xm8yOZIHh3LONCCbaY_6QsB8">](https://music.youtube.com/watch?v=KK8A6pVrCdQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/UXUQKejdYcQXjgOZVk2j3A12MRZUdrUwAwddJoj2C0TIEcM6lNACX2VZiLj5kki5Y-C1fx7B4-MtBtUY">](https://music.youtube.com/watch?v=sgcgzYObr6Y)
 
-aimyon - Till I Know What Love Is (I'm Never Gonna Die)
+Yorushika - Eat The Wind
 
-**Albums**: Till I Know What Love Is (I'm Never Gonna Die) / On a Cherry Blossom Night
+**Albums**: Eat The Wind
 
-Last updated at 07/14/2021 15:12
+Last updated at 07/14/2021 15:17
