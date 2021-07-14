@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/nOt7bbpmEgdxmQIB0tLYV_xeLD0-EkYqltaKOEEF8sqMF-57OwSqXPXdWg5l2NKcF9jswOO31luC1U140w">](https://music.youtube.com/watch?v=0EuC4jUbITA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9wIWuVRGm62qGswtdsAQgagq4Fsz9t_bNzyv9YviE1Bpf1CKEYkR3i5xm8yOZIHh3LONCCbaY_6QsB8">](https://music.youtube.com/watch?v=KK8A6pVrCdQ)
 
-サカナクション - 新宝島
+aimyon - Till I Know What Love Is (I'm Never Gonna Die)
 
-**Albums**: 834.194
+**Albums**: Till I Know What Love Is (I'm Never Gonna Die) / On a Cherry Blossom Night
 
-Last updated at 07/14/2021 15:11
+Last updated at 07/14/2021 15:12
