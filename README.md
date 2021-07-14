@@ -6,12 +6,12 @@
 <br/>
 
 
-## Now Playing on YouTube
+## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AKedOLRnhhcNwwq60jNviaoiJpKtBG1A_btBBhjLRttO8w=s88-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCQVhrypJhw1HxuRV4gX6hoQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pp-hXL5Lu9Z3-yUYO0wOv37BVNGYP1IU5yGnW6zK9EFG7Ksr6pezIQMk2LqovtDTLkFXhZFpDuiPmhU">](https://music.youtube.com/watch?v=6obFUWG0SWw)
 
-あいみょん - 青春と青春と青春【OFFICIAL MUSIC VIDEO】
+Sia - Straight for the Knife
 
-**Albums**: Not supported
+**Albums**: 1000 Forms Of Fear
 
-Last updated at 07/14/2021 18:35
+Last updated at 07/14/2021 18:42
