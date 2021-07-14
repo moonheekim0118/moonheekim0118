@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NoElVu4p0Ib8UUFKK-zKv43iI6LDx7rEbJYuuUAwhFpEKqcY3Pbj-cFpzyaOGfQLYhlwLJVkr2Bq2XCJ">](https://music.youtube.com/watch?v=YF_2v90gvZA)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/x35pQltTJ4MZULsMAfNdNKR5jIytavtdWSw_Jdregx3UXx9vzLcO2miKFIMC80iUcCauihe0tV_WFrLbyw">](https://music.youtube.com/watch?v=XEHvZ5GrfM8)
 
-Kenshi Yonezu - Peace Sign
+Kenshi Yonezu - Eine Kleine
 
-**Albums**: Peace Sign
+**Albums**: Yankee
 
-Last updated at 07/14/2021 10:24
+Last updated at 07/14/2021 10:28
