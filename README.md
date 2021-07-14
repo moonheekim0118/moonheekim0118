@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/povygoHA13Sue9GOrQEArW9xqlkcWrhb-k68mb8b-ojAgG1ce9tvavyU76L4VKgGjMZAKOlFZoVNKr4W">](https://music.youtube.com/watch?v=IDY2VYkmKIY)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QkZazIlKTMYbBD9jNjj57ugBKHopsPHWVlVe_4_eL98Gk1MXQPEtIuQw4z-6T7WBq5GzvkL7Idxgq5Y">](https://music.youtube.com/watch?v=VojKOZML1xI)
 
-Masaki Suda - Clover
+Alessia Cara - October
 
-**Albums**: LOVE
+**Albums**: This Summer
 
-Last updated at 07/14/2021 19:36
+Last updated at 07/14/2021 19:40
