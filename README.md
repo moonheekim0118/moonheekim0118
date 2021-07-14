@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/bgod99CD0VjmJIuS0QiZVyp17JOhGHE7jdKi66LsNmOTJmncbKwjK9SPyR7kQ__hX_sdPd38e4hFgjpH">](https://music.youtube.com/watch?v=mJ1N7-HyH1A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/rikGDcMF4nRpHtW_g7ERkfoWALaC8AfNIReeSQKN4wapYASEAL1U8j6e8lIsJW_ZnSmsiaP8W9KoAATu">](https://music.youtube.com/watch?v=i9V4hQvXuEI)
 
-YOASOBI - 夜に駆ける
+indigo la End - natsuyo no magic
 
-**Albums**: THE BOOK
+**Albums**: Aiiro Music
 
-Last updated at 07/14/2021 14:39
+Last updated at 07/14/2021 14:43
