@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/r5hsIeIFhTvIfAmI7IdBqsUCj_iDI57g1m2O8Sh8LniQKg-iMbs1b50liCGF6OGEFvk6D9krdRruuuuucA">](https://music.youtube.com/watch?v=Rq65VlRhvMs)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/hY7_YU_YUJfQnn6hUmY-9t7wj5LC351pOow91jyBEPNRfCoWbxq6b-QNPvw7monoBzvmcyBYUV0IgxCI">](https://music.youtube.com/watch?v=TIwu1o2ssSI)
 
-back number - Happy End
+Kenshi Yonezu - Himawari
 
-**Albums**: Happy End
+**Albums**: STRAY SHEEP
 
-Last updated at 07/14/2021 14:57
+Last updated at 07/14/2021 14:59
