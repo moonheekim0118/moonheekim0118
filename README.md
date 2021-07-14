@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pp-hXL5Lu9Z3-yUYO0wOv37BVNGYP1IU5yGnW6zK9EFG7Ksr6pezIQMk2LqovtDTLkFXhZFpDuiPmhU">](https://music.youtube.com/watch?v=6obFUWG0SWw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/Pp-hXL5Lu9Z3-yUYO0wOv37BVNGYP1IU5yGnW6zK9EFG7Ksr6pezIQMk2LqovtDTLkFXhZFpDuiPmhU">](https://music.youtube.com/watch?v=fwwguRYfRQA)
 
-Sia - Straight for the Knife
+Sia - Burn the Pages
 
 **Albums**: 1000 Forms Of Fear
 
-Last updated at 07/14/2021 18:42
+Last updated at 07/14/2021 19:27
