@@ -8,10 +8,10 @@
 
 ## Now Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/fHYeEC9CknX30d2J-lNj29xys0hsxigF1SDk-g2EOlOp98fUNK5R83OOMnXLb4eORnVxQdlShjCn-MY">](https://music.youtube.com/watch?v=15RuCIbXE8A)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/QkZazIlKTMYbBD9jNjj57ugBKHopsPHWVlVe_4_eL98Gk1MXQPEtIuQw4z-6T7WBq5GzvkL7Idxgq5Y">](https://music.youtube.com/watch?v=hyf05OdmIFA)
 
-Olivia Rodrigo - jealousy, jealousy
+Alessia Cara - Like You
 
-**Albums**: SOUR
+**Albums**: This Summer
 
-Last updated at 07/14/2021 19:45
+Last updated at 07/19/2021 13:02
