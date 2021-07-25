@@ -1,6 +1,6 @@
 ## Hello Strangers 👋
 
-I'm currently focusing on Software Development, Especially Front-end with JavaScript. I've found out I love building things, so I started coding in the Spring of 2018, and I keep focusing on it to be a better software engineer. I wanna make a better world with software. <br/>
+I'm currently focusing on Web Development. I wanna make a better world with software. <br/>
 My life motto is **to Be the protagonist anywhere you stay, then the truth will be where you are.**  (隨處作主 立處皆真)
 
 
