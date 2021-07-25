@@ -4,14 +4,3 @@
 - [알고리즘 문제풀이 정리하는 곳](https://www.notion.so/mooneedev/Algorithms-f47ea3f7bcd7444d834bcf6ce8c1cf78)
 
 <br/>
-
-
-## Now Playing on YTMusic
-
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/QkZazIlKTMYbBD9jNjj57ugBKHopsPHWVlVe_4_eL98Gk1MXQPEtIuQw4z-6T7WBq5GzvkL7Idxgq5Y">](https://music.youtube.com/watch?v=hyf05OdmIFA)
-
-Alessia Cara - Like You
-
-**Albums**: This Summer
-
-Last updated at 07/19/2021 13:02
