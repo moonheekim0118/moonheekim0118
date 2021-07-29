@@ -7,7 +7,7 @@ My life motto is **to Be the protagonist anywhere you stay, then the truth will 
 ### More
 
 - [Development Blog 개발 기록용 블로그 (Korean) ](https://mooneedev.netlify.app/)
-- [Stuyd Blog 공부 기록용 블로그 (Korean) ](https://velog.io/@moonheekim0118)
+- [Study Blog 공부 기록용 블로그 (Korean) ](https://velog.io/@moonheekim0118)
 - [How I became a Developer (Korean)](https://www.notion.so/mooneedev/4a78cf4af0a74c26a5880871ada05ddb)
 - hellomooneekim@gmail.com 
 <br/>
