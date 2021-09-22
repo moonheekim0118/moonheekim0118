@@ -1,8 +1,7 @@
-## Hello Strangers 👋
+## 👋
 
-I'm currently focusing on Web Development. I wanna make a better world with software. <br/>
-My life motto is **to Be the protagonist anywhere you stay, then the truth will be where you are.**  (隨處作主 立處皆真)
-
+- 하루하루는 성실히, 인생 전체는 되는대로
+- 수처작주 입처개진 
 
 ### More
 
@@ -14,5 +13,4 @@ My life motto is **to Be the protagonist anywhere you stay, then the truth will 
 <br/>
 
 
- You can ask me anything or just say hi :)
  
