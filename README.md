@@ -1,19 +1,13 @@
-## ☘️ 🍀
+## 🧿
 
 i love learning 
 
-### 기록 
 
 - [블로그 2021.08 ~](https://velog.io/@moonheekim0118)
 - [블로그 2020.09~ 2021.08 ](https://mooneedev.netlify.app/)
 - [블로그 2020.01~ 2020.08](https://moonheekim-code.tistory.com/)
 
-<br/>
 
-- [알고리즘 문제풀이 기록](https://www.notion.so/mooneedev/Algorithms-f47ea3f7bcd7444d834bcf6ce8c1cf78)
-- [자기소개 비슷한거](https://www.notion.so/mooneedev/4a78cf4af0a74c26a5880871ada05ddb)
-
-<br/>
-
+![](https://38.media.tumblr.com/f9565c438ba27a873c26ebbd4d85dd6a/tumblr_no1u5rnZxY1se4wn5o1_500.gif)
 
  
