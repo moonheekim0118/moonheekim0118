@@ -1,5 +1,4 @@
 
-may your choices reflect your hopes, not your fears
 
 #### Blog
 - [2021.08 ~](https://velog.io/@moonheekim0118)
