@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonheekim0118%2Fhit-counter&count_bg=%238AB9D0&title_bg=%23969090&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonheekim0118%2Fhit-counter&count_bg=%23C5E0A4&title_bg=%23CDC5C5&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### Blog
 - [2022.03~ ](https://moonheekim.netlify.app/)
