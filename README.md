@@ -1,1 +1,2 @@
-
+- wiki (using obsidion digital garden) : `https://mooneewiki.vercel.app/`
+- blog : `https://hellomooneekim.netlify.app/`
