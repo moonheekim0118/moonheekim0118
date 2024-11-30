@@ -8,6 +8,6 @@
 </a>
   
 
-- [wiki (using obsidion digital garden)](https://mooneewiki.vercel.app/)
+- [wiki (using obsidian digital garden)](https://mooneewiki.vercel.app/)
 
 
